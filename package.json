@@ -1,6 +1,6 @@
 {
   "name": "quicksilver",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
   "main": "src/index.js",
   "scripts": {
